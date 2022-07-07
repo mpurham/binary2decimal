@@ -1,0 +1,25 @@
+{
+	"name": "Bin to Dec",
+	"description": "Binary to Decimal",
+	"version": "1.0.0",
+	"tags": [
+		"decimal",
+		"binary",
+		"dec",
+        "bin"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "Maurice"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/binary2decimal"
+		}
+	]
+}
